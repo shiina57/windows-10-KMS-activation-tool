@@ -32,5 +32,4 @@
 本方法啟用的作業系統沒有任何副作用，如果你登入微軟帳號的話就會自動將數字許可證綁定到你的微軟帳號上。
 當然不論是否登入帳號都不會影響數字許可證，即下次重灌系統輸入對應版本的啟用金鑰後系統將自動執行啟用。
 
-download file 
-https://github.com/shiina57/just-a-file/raw/main/kms%20tool.rar
+download file :https://github.com/shiina57/just-a-file/raw/main/kms%20tool.rar
