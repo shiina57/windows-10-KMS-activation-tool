@@ -34,6 +34,3 @@ Current v-1.0
 在啟用系統後同時連線微軟將硬體編號對應啟用許可證上傳，最終對於使用者來說系統在啟用的瞬間就有數字權利。
 本方法啟用的作業系統沒有任何副作用，如果你登入微軟賬號的話就會自動將數字許可證繫結到你的微軟賬號上。
 當然不論是否登入賬號都不會影響數字許可證，即下次重灌系統輸入對應版本的啟用金鑰後系統將自動執行啟用。
-
-[@vyvojar](https://github.com/vyvojar/slshim) [@黯然 KING](http://bbs.pcbeta.com/viewthread-1786788-1-1.html)
-[@landian](https://www.landiannews.com/archives/47882.html)
